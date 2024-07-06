@@ -1,6 +1,6 @@
 # Responsive Landing Page
 
-A landing page built using HTML and CSS. This project was developed as part of my internship at CodeSoft.
+A landing page built using HTML and CSS. This project was developed as part of my internship at BehinDev.
 
 ## Key Features:
 - **Use a Responsive Framework:**
