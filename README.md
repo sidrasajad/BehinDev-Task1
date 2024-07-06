@@ -24,25 +24,25 @@ A landing page built using HTML and CSS. This project was developed as part of m
 ## Screenshots
 
 ### Screenshot-01
-![Landing Page Screenshot](images/screenshort-01.PNG)
+![Landing Page Screenshot](Images/screenshort-01.PNG)
 ### Screenshot-02
-![Landing Page Screenshot](images/screenshort-02.PNG)
+![Landing Page Screenshot](Images/screenshort-02.PNG)
 ### Screenshot-03
-![Landing Page Screenshot](images/screenshort-03.PNG)
+![Landing Page Screenshot](Images/screenshort-03.PNG)
 ### Screenshot-04
-![Landing Page Screenshot](images/screenshort-04.PNG)
+![Landing Page Screenshot](Images/screenshort-04.PNG)
 ### Screenshot-05
-![Landing Page Screenshot](images/screenshort-05.PNG)
+![Landing Page Screenshot](Images/screenshort-05.PNG)
 ### Screenshot-06
-![Landing Page Screenshot](images/screenshort-06.PNG)
+![Landing Page Screenshot](Images/screenshort-06.PNG)
 ### Screenshot-07
-![Landing Page Screenshot](images/screenshort-07.PNG)
+![Landing Page Screenshot](Images/screenshort-07.PNG)
 ### Screenshot-08
-![Landing Page Screenshot](images/screenshort-08.PNG)
+![Landing Page Screenshot](Images/screenshort-08.PNG)
 ### Screenshot-09
-![Landing Page Screenshot](images/screenshort-09.PNG)
+![Landing Page Screenshot](Images/screenshort-09.PNG)
 ### Screenshot-10
-![Landing Page Screenshot](images/screenshort-19.PNG)
+![Landing Page Screenshot](Images/screenshort-19.PNG)
 
 ## Technologies Used
 
